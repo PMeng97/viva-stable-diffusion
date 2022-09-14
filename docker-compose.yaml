@@ -9,6 +9,7 @@ services:
     volumes:
       - .:/ssd-det
       - ../uploads:/uploadsD
+      - ./stable-diffusion-v1-4:/ssd-det/stable-diffusion-v1-4
     environment:
       - MONGO_DATABASE=viva-api-responses
       - MONGO_USERNAME=apiBackend
