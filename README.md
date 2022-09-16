@@ -1,4 +1,4 @@
-# viva-stable-diffusion
+# [viva-stable-diffusion](https://github.com/huggingface/diffusers)
 ## Before run the program, download the pre-trained model.
 ```
 git lfs install
