@@ -1,4 +1,4 @@
-# viva-test
+# viva-stable-diffusion
 ## Before run the program, download the pre-trained model.
 ```
 git lfs install
